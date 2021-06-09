@@ -1,4 +1,6 @@
-  <div class="comment-wrapper" style="padding: 30px 40px;">
+<!DOCTYPE html>
+<html>
+<div class="comment-wrapper" style="padding: 30px 40px;">
     <div class="container">
       <div class="heading">
         <h2>Apa kata mereka?</h2>
