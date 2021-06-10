@@ -52,7 +52,7 @@ a {
   float:left;
   width: 150px;
   height: 150px;
-  margin: 15px;
+  margin: 15px 30px;
 }
 .comment-icon p {
   top: 44%;
